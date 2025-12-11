@@ -6,8 +6,7 @@ A modern, interactive, and responsive **React-based portfolio website** showcasi
 
 ## 🚀 Live Demo
 🔗 *(Add your deployed link once uploaded)*  
-**https://your-portfolio-link.vercel.app/**
-
+**[https://portfolio-five-iota-jjqs3uaxf8.vercel.app/](https://portfolio-five-iota-jjqs3uaxf8.vercel.app/)**
 ---
 
 ## 📌 Features
@@ -143,8 +142,6 @@ Deploy in one click
 Or use:
 
 GitHub Pages
-
-Netlify
 
 📧 Contact
 
