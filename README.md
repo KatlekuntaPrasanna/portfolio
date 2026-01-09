@@ -1,33 +1,33 @@
-# 🌟 Prasanna Katlekunta — Portfolio Website
+# Prasanna Katlekunta — Portfolio Website
 
 A modern, interactive, and responsive **React-based portfolio website** showcasing my skills, education, certifications, and featured projects. Built with a clean UI, smooth animations, and a premium black–gold theme.
 
 ---
 
-## 🚀 Live Demo
-🔗 *(Add your deployed link once uploaded)*  
+## Live Demo
+ *(Add your deployed link once uploaded)*  
 **[https://portfolio-five-iota-jjqs3uaxf8.vercel.app/](https://portfolio-five-iota-jjqs3uaxf8.vercel.app/)**
 ---
 
-## 📌 Features
+##  Features
 
-### ✅ Modern UI & Animations
+### Modern UI & Animations
 - Smooth scroll animations  
 - Glassmorphism cards  
 - Floating geometric shapes  
 - Stylish sidebar navigation  
 - Premium Black + Gold themed layout  
 
-### ✅ Hero Section
+### Hero Section
 - Name with profile picture  
 - Animated intro text  
 - Stylish gold-outlined resume download button  
 
-### ✅ Projects Section
+### Projects Section
 Each project includes:
-- 🔗 Live Demo  
-- 💻 Source Code  
-- 📄 Detailed project description  
+-  Live Demo  
+-  Source Code  
+-  Detailed project description  
 
 ### Projects Added:
 - Emoji Game  
@@ -39,7 +39,7 @@ Each project includes:
 
 ---
 
-## 🧠 Skills Section (With Progress Bars)
+## Skills Section (With Progress Bars)
 Skills grouped into:
 
 - **Programming & Data Tools**  
@@ -53,7 +53,7 @@ Each skill shows a clean gold progress bar.
 
 ---
 
-## 🎓 Education
+## Education
 Displayed as gold-bordered rounded cards:
 
 - **CVR College Of Engineering** — B.Tech CSE  
@@ -64,7 +64,7 @@ Includes duration & percentage/CGPA.
 
 ---
 
-## 🏅 Certifications
+## Certifications
 Styled using premium ribbon cards:
 
 - PwC Launchpad — IT Fundamentals, RDBMS, Data Engineering  
@@ -75,7 +75,7 @@ Styled using premium ribbon cards:
 
 ---
 
-## ✉️ Contact Form
+## Contact Form
 Modern glass-effect contact form that sends emails via **EmailJS**.
 
 Includes links for:
@@ -84,7 +84,7 @@ Includes links for:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend:
 - React.js  
@@ -100,7 +100,7 @@ Includes links for:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 /src
 ├── assets/
@@ -114,9 +114,9 @@ Includes links for:
 ```
 ---
 
-## ⚡ Run Locally
+## Run Locally
 
-### 1️⃣ Clone Repo
+### Clone Repo
 ```
 git clone https://github.com/<your-username>/<your-repo-name>.git
 ```
@@ -130,8 +130,8 @@ Runs on:
 ```
 http://localhost:3000
 ```
-🚀 Deployment Options
-✅ Vercel (BEST)
+Deployment Options
+Vercel (BEST)
 
 Login to https://vercel.com
 
@@ -143,9 +143,9 @@ Or use:
 
 GitHub Pages
 
-📧 Contact
+Contact
 
-Email: your-email@example.com
+Email: katlekuntaprasanna5n1@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/prasannakatlekunta
 
